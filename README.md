@@ -1,6 +1,6 @@
 
 
-Roblox command demonstrating a *notifications*
+Roblox command demonstrating a *notification*
 
 ## Scripts
 
